@@ -1,4 +1,4 @@
-# BifrostReference
+# 📝 Northgard Bifrost Bonuses
 
 ## Table of Contents
 - [Legend](#legend)
@@ -20,7 +20,7 @@
 - 🟣 Purple = Confusion / Fear / Terror / Chaos
 - ⚪ White = Neutral / Population / Resource / Colonization
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)
 
 ---
 
@@ -35,7 +35,7 @@
 | Nidavellir (Cave) | ⚪ Ore deposits block slots. ⚪ Miners extract crowns/stone. ⚪ Zones fade back into fog if unvisited. |
 | Vanaheim (Jungle) | 🟢 Strong wild creatures reclaim zones. 🟢 Wolf dens/fox burrows cannot be colonized. 🟢 Hazardous, frequent attacks. |
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)
 
 ---
 
@@ -49,7 +49,7 @@
 | Niflheim | 🔵 Niflheim Towers | 🔵 Niflheim Barricades | 🔵 Frost, 🔴 Blood |
 | Vanaheim | 🟣 Vanaheim Towers | 🔵 Vanaheim Barricades | 🔵 Vanaheim, 🟣 Confusion |
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)
 
 ---
 
@@ -68,7 +68,7 @@
 | Vanaheim | 🔵 Units root enemies (stun). |
 | Venom | 🟢 Units poison enemies (DoT). |
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)
 
 ---
 
@@ -82,7 +82,7 @@
 | Niflheim | 🔵 Frost arrows. |
 | Vanaheim | 🟣 Confusion arrows. |
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)
 
 ---
 
@@ -96,7 +96,7 @@
 | Niflheim | 🔵 Freezing effect. |
 | Vanaheim | 🔵 Rooting effect. |
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)
 
 ---
 
@@ -108,7 +108,7 @@
 | Pillar of Glory | ⚪ -30% colonization cost; ⚪ +100 fame; 🔴 damage-reflecting towers; 🟡 multishot towers; ⚪ first 3 military units free. |
 | Wyvern’s Den | ⚪ +10 stone & +5 iron; ⚪ +100 food, +100 wood, +75 crowns; ⚪ +250 military XP; 🟡 double towers per zone. |
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)
 
 ---
 
@@ -121,4 +121,4 @@
 | Kobolds | Niflheim | ⚪ Trade food/wood | ⚪ Build camp (50 wood, 30 crowns). 🟢 Recruit up to 4 fighters (30 crowns each). |
 | Dwarves | Nidavellir | ⚪ Trade food/wood | ⚪ Build camp (50 wood, 5 stone). 🟢 Recruit 3 fighters (60 crowns each) + ⚪ 1 Operative (100 crowns, mines/forges/fights). |
 
-[⬆ Back to top](#-BifrostReference)
+[⬆ Back to top](#-northgard-bifrost-bonuses)

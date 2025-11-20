@@ -89,6 +89,15 @@
 
 [⬆ Back to top](#-northgard-bifrost-bonuses)
 
+## 🎨 Combat Effect Color Legend
+
+- 🟧 **Fire / Burning / Heat**
+- 🟥 **Blood / Lifesteal**
+- 🟨 **Lightning / Thunder / Holy / Storm** 
+- ⚪ **Frost / Freezing / Cold**
+- 🟪 **Fear / Confusion / Terror / Control** 
+- 🟩 **Poison / Venom / Corruption**
+
 ## 🔮 Portals
 
 | Portal Realm | Tower Upgrade | Barricade Upgrade | Blade Options |

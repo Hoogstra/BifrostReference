@@ -9,6 +9,12 @@
 
 ---
 
+🟩 Economic   | █████ (5)
+🟥 Military   | ███████████ (11)
+🟨 Food       | ██ (2)
+🟦 Lore       | ███ (3)
+🟪 Support    | █████ (5, overlapping)
+
 ## 🟩 Economic Clans
 | Clan | Favor 1 | Favor 2 | Favor 3 |
 |------|---------|---------|---------|
@@ -65,3 +71,81 @@ Clans with favors spread across **3+ categories**, offering versatile synergy.
 | 🦅 **Eagle** | 🟩 Economic, 🟦 Lore, 🟪 Support | Civilians in neutral zones, non‑adjacent colonization, Glacial Winds |
 | 🐴 **Horse** | 🟪 Support, 🟩 Economic, 🟥 Military | Warchief regen, production bonus, Great Tower destruction |
 | 🦁 **Lion** | 🟦 Lore, 🟪 Support, 🟥 Military | Faith healing, relics, Paladin upgrades |
+
+# 📊 Northgard Conquest Synergy Matrix
+
+**Legend:**  
+- 🟩 Economic — resources, production, colonization, population  
+- 🟥 Military — unit buffs, warband, combat abilities  
+- 🟨 Food — food yield, meals, feasts, livestock  
+- 🟦 Lore/Knowledge — Faith, relics, mystical powers, unique knowledge  
+- 🟪 Support — healing, regeneration, utility, protection  
+
+| Clan | 🟩 Econ | 🟥 Mil | 🟨 Food | 🟦 Lore | 🟪 Support |
+|------|---------|--------|---------|---------|------------|
+| 🦌 Stag | ✅ |  |  |  |  |
+| 🐐 Goat |  |  | ✅ | ✅ |  |
+| 🐺 Wolf | ✅ | ✅ | ✅ |  |  |
+| 🐻 Bear |  | ✅ |  | ✅ | ✅ |
+| 🦅 Raven | ✅ | ✅ |  |  |  |
+| 🐗 Boar | ✅ |  |  | ✅ |  |
+| 🐍 Snake |  | ✅ |  |  |  |
+| 🐉 Dragon | ✅ | ✅ |  | ✅ | ✅ |
+| 🐴 Horse | ✅ | ✅ |  |  | ✅ |
+| 🦑 Kraken | ✅ | ✅ |  |  |  |
+| 🐂 Ox | ✅ | ✅ |  |  |  |
+| 🦊 Lynx |  | ✅ | ✅ | ✅ |  |
+| 🐿️ Squirrel |  |  | ✅ |  |  |
+| 🐀 Rat | ✅ | ✅ |  |  |  |
+| 🦅 Eagle | ✅ |  |  | ✅ | ✅ |
+| 🦁 Lion |  | ✅ |  | ✅ | ✅ |
+| 🦦 Stoat | ✅ | ✅ |  |  |  |
+| 🦉 Owl |  |  |  | ✅ |  |
+| 🐕 Hounds | ✅ | ✅ |  |  |  |
+| 🐢 Turtle | ✅ |  |  |  |  |
+| 🦄 Hippogriff | ✅ | ✅ |  |  |  |
+
+# 📊 Northgard Conquest Category Summary
+
+**Legend:**  
+- 🟩 Economic — resources, production, colonization, population  
+- 🟥 Military — unit buffs, warband, combat abilities  
+- 🟨 Food — food yield, meals, feasts, livestock  
+- 🟦 Lore/Knowledge — Faith, relics, mystical powers, unique knowledge  
+- 🟪 Support — healing, regeneration, utility, protection  
+
+---
+
+## 🟩 Economic (5 clans)
+**Clans:** Raven, Boar, Turtle, Hippogriff, Stag  
+**Notes:** Strongest in resource generation, colonization discounts, and infrastructure boosts.
+
+---
+
+## 🟥 Military (11 clans)
+**Clans:** Wolf, Bear, Snake, Lynx, Dragon, Horse, Kraken, Ox, Hounds, Stoat, Rat  
+**Notes:** Largest category — heavy focus on unit buffs, warband expansion, and combat abilities.
+
+---
+
+## 🟨 Food (2 clans)
+**Clans:** Goat, Squirrel  
+**Notes:** Specialists in food yield and feast/meal mechanics.
+
+---
+
+## 🟦 Lore/Knowledge (3 clans)
+**Clans:** Lion, Owl, Eagle  
+**Notes:** Faith, relics, mystical powers, and unique knowledge branches.
+
+---
+
+## 🟪 Support (cross‑category, 5 clans)
+**Clans:** Lion, Bear, Dragon, Horse, Eagle  
+**Notes:** Healing, regeneration, utility control, and stability mechanics. Often overlap with other categories.
+
+---
+
+# 🌀 All‑Rounders (6 clans)
+**Clans:** Lynx, Dragon, Bear, Eagle, Horse, Lion  
+**Notes:** Each spreads across 3+ categories, offering versatile synergy in Conquest runs.

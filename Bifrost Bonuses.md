@@ -10,7 +10,7 @@
 - [Blades (Weapon Powerups)](#-blades-weapon-powerups)
 - [Tower Upgrades](#-tower-upgrades)
 - [Barricade Upgrades](#-barricade-upgrades)
-- [Generic Conquest Favors](#-generic-conquest-favors-tier-1-3-color-coded)
+- [Generic Conquest Favors](#-generic-conquest-favors)
 
 ---
 
@@ -165,8 +165,67 @@
 
 ---
 
-## ⚪ Generic Conquest Favors (Tier 1–3, Color‑Coded)
+## ⚪ Generic Conquest Favors
 
-*(Full table preserved from README — unchanged)*
+| Category            | Bonus Type                          | Tier   | Effect                                                                 |
+|---------------------|-------------------------------------|--------|------------------------------------------------------------------------|
+| Economy & Growth    | Food/Lore production                | ⚪ Tier 1 | +2 production to a targeted resource                                   |
+|                     |                                     | 🟡 Tier 2 | +3 production to a targeted resource                                   |
+|                     | Food production                     | 🟠 Tier 3 | +10% food production                                                   |
+|                     | Wood production                     | 🟠 Tier 3 | +10% wood production                                                   |
+|                     | Crown production                    | 🟠 Tier 3 | +10% crown production                                                  |
+|                     | Population growth speed             | 🟠 Tier 3 | +10% population growth                                                 |
+|                     | Happiness                           | ⚪ Tier 1 | +1 Happiness                                                           |
+|                     |                                     | 🟡 Tier 2 | +2 Happiness                                                           |
+|                     |                                     | 🟠 Tier 3 | +10% happiness                                                         |
+|                     | Stone/Iron trickle                  | ⚪ Tier 1 | Every 3 months, gain +1 of a chosen mineral                            |
+|                     |                                     | 🟡 Tier 2 | Every 2 months, gain +1 of a chosen mineral                            |
+|                     | Silo                                | ⚪ Tier 1 | Silos store +25% and increase food production by 5%                    |
+|                     |                                     | 🟡 Tier 2 | Silos store +30% and increase food production by 10%                   |
+|                     | House                               | ⚪ Tier 1 | Each house hosts +1 citizen                                            |
+|                     |                                     | 🟡 Tier 2 | Each house hosts +2 citizens                                           |
+| Military            | Warband size                        | ⚪ Tier 1 | +2 to warband limit                                                    |
+|                     |                                     | 🟡 Tier 2 | +3 to warband limit                                                    |
+|                     | Attack Power (selected unit)        | ⚪ Tier 1 | +15% Attack Power for selected unit                                    |
+|                     |                                     | 🟡 Tier 2 | +30% Attack Power for selected unit                                    |
+|                     | Defense Power (selected unit)       | ⚪ Tier 1 | +10% Defense Power for selected unit                                   |
+|                     |                                     | 🟡 Tier 2 | +15% Defense Power for selected unit                                   |
+|                     | Military XP gain                    | 🟠 Tier 3 | +10% military experience gain                                          |
+|                     | Unit recruitment speed              | 🟠 Tier 3 | +10% unit recruitment speed                                            |
+|                     | Building repair speed               | 🟠 Tier 3 | +10% building repair speed                                             |
+|                     | Warrior start                       | ⚪ Tier 1 | Start with one Warrior                                                 |
+|                     |                                     | 🟡 Tier 2 | Start with two Warriors                                                |
+|                     | Unit cost reduction (selected unit) | ⚪ Tier 1 | Selected unit is 10% cheaper                                           |
+|                     |                                     | 🟡 Tier 2 | Selected unit is 15% cheaper                                           |
+|                     | Warchief cost/revive                | ⚪ Tier 1 | Warchief cost & revive cooldown reduced by 50%                         |
+|                     |                                     | 🟡 Tier 2 | Warchief cost & revive cooldown reduced by 90%                         |
+|                     | Warchief ability/relic cooldown     | ⚪ Tier 1 | Reduces Warchief ability & relic cooldown by 25%                       |
+|                     |                                     | 🟡 Tier 2 | Reduces Warchief ability & relic cooldown by 50%                       |
+|                     | Warchief vs Draugr/Valkyries        | ⚪ Tier 1 | Warchief deals +50% damage vs Draugr & Fallen Valkyries                |
+|                     |                                     | 🟡 Tier 2 | Warchief deals +100% damage vs Draugr & Fallen Valkyries               |
+|                     | Defense Tower damage                | ⚪ Tier 1 | +20% attack power against towers                                       |
+|                     |                                     | 🟡 Tier 2 | +30% attack power against towers                                       |
+| Support & Healing   | Healing speed                       | 🟠 Tier 3 | +10% healing speed                                                     |
+|                     | Unit production bonus (selected)    | ⚪ Tier 1 | +5% production for targeted unit                                       |
+|                     |                                     | 🟡 Tier 2 | +10% production for targeted unit                                      |
+|                     | Unit tool bonus (selected)          | ⚪ Tier 1 | Targeted unit tool is free & forging time halved                       |
+|                     | Unit weapon bonus (selected)        | ⚪ Tier 1 | Targeted unit weapon is free & forging time halved                     |
+| Lore & Fame         | Relic forge efficiency              | ⚪ Tier 1 | Relic forge time & cost reduced by 30%                                 |
+|                     |                                     | 🟡 Tier 2 | Relic forge time & cost reduced by 60%                                 |
+|                     | Fame gain                           | 🟠 Tier 3 | +10% fame gain                                                         |
+|                     | Knowledge gain (research speed)     | 🟠 Tier 3 | +10% knowledge gain                                                    |
+| Resource Efficiency | Stone production                    | 🟠 Tier 3 | +10% stone production                                                  |
+|                     | Iron production                     | 🟠 Tier 3 | +10% iron production                                                   |
+|                     | Trade income                        | 🟠 Tier 3 | +10% trade income                                                      |
+|                     | Sailor production (harbors)         | 🟠 Tier 3 | +10% sailor output (crowns/lore from harbors)                          |
+| Environment & Survival | Sheep                           | ⚪ Tier 1 | Each year, gain one sheep for each pair owned                          |
+|                     | Winter harshness                    | ⚪ Tier 1 | Winters are 30% less harsh                                             |
+|                     |                                     | 🟡 Tier 2 | Winters are 40% less harsh                                             |
+|                     | Draugr hostility reduction          | ⚪ Tier 1 | Reduces world hostility by 30%                                         |
+|                     |                                     | 🟡 Tier 2 | Reduces world hostility by 60%                                         |
+|                     | Journeymen colonization             | ⚪ Tier 1 | Colonization cost reduced by 15%                                       |
+|                     |                                     | 🟡 Tier 2 | Colonization cost reduced by 25%                                       |
+|                     | Treasure chest exploration          | ⚪ Tier 1 | Treasure exploration speed & loot +30%                                 |
+|                     |                                     | 🟡 Tier 2 | Treasure exploration speed & loot +50%                                 |
 
 [⬆ Back to top](#-northgard-bifrost-bonuses)
